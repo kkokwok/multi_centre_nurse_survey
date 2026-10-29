@@ -15,9 +15,8 @@ The repository contains the following files:
 - `demographics.R`: R code for participant characteristics and univariable analyses of influenza vaccination uptake.
 - `modification_analysis.R`: R code for the effect-modification analyses.
 - `path_analysis.R`: R code for the path analyses and Singapore main-effect sensitivity analyses.
-- `README.md`: description of the datasets and analyses.
 - `demographics.RDS`: analysis-specific dataset for the participant characteristics table.
- 
+- `README.md`: description of the datasets and analyses.
 
 ---
 
