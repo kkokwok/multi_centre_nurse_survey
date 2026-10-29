@@ -12,12 +12,12 @@ The shared datasets contain only variables required for the analyses presented h
 
 The repository contains the following files:
 
-- `demographics.RDS`: analysis-specific dataset for the participant characteristics table.
 - `demographics.R`: R code for participant characteristics and univariable analyses of influenza vaccination uptake.
-- `path_modification_analysis.RDS`: analysis-specific dataset for the effect-modification, path, and sensitivity analyses.
 - `modification_analysis.R`: R code for the effect-modification analyses.
 - `path_analysis.R`: R code for the path analyses and Singapore main-effect sensitivity analyses.
 - `README.md`: description of the datasets and analyses.
+- `demographics.RDS`: analysis-specific dataset for the participant characteristics table.
+ 
 
 ---
 
@@ -483,7 +483,14 @@ If these datasets or analysis scripts are used, please cite the associated publi
 
 Full citation details will be added following publication.
 
+
 ---
+# Data Availability
+
+The analysis-specific datasets used to reproduce the analyses are available from the corresponding author upon reasonable request and are not publicly deposited in this repository.
+
+- `path_modification_analysis.RDS`: analysis-specific dataset used for the effect-modification, path, and sensitivity analyses.
+
 
 # Contact
 
