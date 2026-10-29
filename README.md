@@ -1,4 +1,8 @@
-# Trust, 5C Constructs, and Influenza Vaccination Uptake Among Nurses
+# Trust in Digital and Traditional Health Information Sources and Influenza Vaccination Uptake among Nurses
+
+## Authors
+
+Kin On KWOK, Wan In WEI, Edward Braddon MCNEIL, Elliot Eu Zai FENG, Arthur TANG, Ashish TRIVEDI, Shui Shan LEE, Alice LAI and John Wah LIM
 
 ## Overview
 
