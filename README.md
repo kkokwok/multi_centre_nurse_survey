@@ -289,8 +289,8 @@ For the logistic vaccination-uptake model, reported statistics include:
 ---
 
 # Singapore Main-Effect Sensitivity Analyses
-
-The `path_analysis.R` script also conducts two Singapore-specific main-effect sensitivity analyses using continuous trust scores:
+In addition to the main effect analysis with categorial trust sources for government websites, social media and AI chatbots,  
+the `path_analysis.R` script also conducts Singapore-specific main-effect sensitivity analyses using continuous trust scores:
 
 1. family doctor trust; and
 2. family/friends trust.
@@ -351,6 +351,7 @@ This script produces:
 - 25 path models for the combined Brunei, Hong Kong, and Singapore sample;
 - 25 population-specific path models for Brunei;
 - 25 population-specific path models for Hong Kong;
+- 3 singapore main effect model with categorical government website, AI chatbot and social media
 - one Singapore main-effect sensitivity model using continuous family doctor trust; and
 - one Singapore main-effect sensitivity model using continuous family/friends trust.
 
