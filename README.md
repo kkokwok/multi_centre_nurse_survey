@@ -8,7 +8,7 @@ Kin On KWOK, Wan In WEI, Edward Braddon MCNEIL, Elliot Eu Zai FENG, Arthur TANG,
 
 This repository contains analysis-specific datasets and R code used to reproduce the participant demographic, effect-modification, path, and sensitivity analyses examining trust in health information sources, the 5C psychological antecedents of vaccination, and influenza vaccination uptake among nurses in **Brunei, Hong Kong, and Singapore**.
 
-The shared datasets contain only variables required for the analyses presented here. Prespecified participant exclusions and variable derivations were completed before creation of the shared datasets. Participant identifiers and variables unrelated to these analyses are not included.
+The shared dataset in RDS format contain only variables required for demographics analyses here. Prespecified participant exclusions and variable derivations were completed before creation of the shared datasets. Participant identifiers and variables unrelated to these analyses are not included.
 
 ---
 
